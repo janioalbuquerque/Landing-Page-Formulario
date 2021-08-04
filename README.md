@@ -12,10 +12,7 @@ Segue Prints abaixo para melhor visualização do projeto.
 ![image](https://user-images.githubusercontent.com/65768376/128265020-d29e2e69-be30-4155-820b-cf87ec7fca66.png)
 
 -------------------
-
-![image](https://user-images.githubusercontent.com/65768376/128265114-7f519c29-4e69-424b-bae9-d2bdd8fe930c.png)
-
+-------------------
 
 
-
-
+![image](https://user-images.githubusercontent.com/65768376/128265210-ec729fd7-3eb6-4d36-9c07-0bc0ec05539e.png)
